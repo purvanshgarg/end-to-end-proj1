@@ -1,0 +1,6 @@
+[ 2023-07-23 13:16:33,686 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-07-23 13:16:33,720 ] 187 werkzeug - INFO -  * Debugger PIN: 122-848-154
+[ 2023-07-23 13:16:46,163 ] 9 root - INFO - We are testing another method of logging
+[ 2023-07-23 13:16:46,163 ] 187 werkzeug - INFO - 127.0.0.1 - - [23/Jul/2023 13:16:46] "GET / HTTP/1.1" 200 -
+[ 2023-07-23 13:16:46,725 ] 187 werkzeug - INFO - 127.0.0.1 - - [23/Jul/2023 13:16:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-07-23 13:41:11,820 ] 187 werkzeug - INFO -  * Detected change in 'D:\\mlprojects\\end-to-end-proj1\\src\\exception.py', reloading
