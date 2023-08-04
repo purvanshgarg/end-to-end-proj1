@@ -4,7 +4,7 @@ from typing import List
 HYPHON_E_DOT="-e ."
 
 def get_requirements(filepath: str) ->List[str]:
-    requirements=[]
+    requirements=[] 
 
     with open(filepath) as file_obj:
         requirements= file_obj.readlines()
